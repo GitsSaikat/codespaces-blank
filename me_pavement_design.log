@@ -1,0 +1,99 @@
+2024-12-22 12:01:33,543 - src.performance - INFO - Total Fatigue Damage: 0.004472024810545181
+2024-12-22 12:01:33,544 - src.performance - INFO - Total Rutting: 1.2148684899458864 mm
+2024-12-22 12:01:33,546 - src.performance - INFO - Thermal Cracking Index: 0.001
+2024-12-22 12:01:33,546 - src.performance - INFO - Pavement design simulation completed.
+2024-12-22 12:01:33,546 - src.lcca - INFO - Starting Life-Cycle Cost Analysis (LCCA).
+2024-12-22 12:01:33,547 - src.lcca - INFO - Initial Cost: $1,000,000.00
+2024-12-22 12:01:33,547 - src.lcca - INFO - Total Lifecycle Cost (LCCA): $1,464,666.29
+2024-12-22 12:09:07,879 - src.performance - INFO - Total Fatigue Damage: 0.01724620834913378
+2024-12-22 12:09:07,879 - src.performance - INFO - Total Rutting: 2.0822954143592756 mm
+2024-12-22 12:09:07,880 - src.performance - INFO - Thermal Cracking Index: 0.001
+2024-12-22 12:09:07,880 - src.performance - INFO - Pavement design simulation completed.
+2024-12-22 12:09:07,881 - src.lcca - INFO - Starting Life-Cycle Cost Analysis (LCCA).
+2024-12-22 12:09:07,881 - src.lcca - INFO - Initial Cost: $1,000,000.00
+2024-12-22 12:09:07,882 - src.lcca - INFO - Total Lifecycle Cost (LCCA): $1,464,666.29
+2024-12-22 12:38:41,947 - src.performance - INFO - Total Fatigue Damage: 0.004472024810545181
+2024-12-22 12:38:41,950 - src.performance - INFO - Total Rutting: 1.2148684899458864 mm
+2024-12-22 12:38:41,950 - src.performance - INFO - Thermal Cracking Index: 0.001
+2024-12-22 12:38:41,950 - src.performance - INFO - Pavement design simulation completed.
+2024-12-22 12:38:41,950 - src.lcca - INFO - Starting Life-Cycle Cost Analysis (LCCA).
+2024-12-22 12:38:41,951 - src.lcca - INFO - Initial Cost: $1,000,000.00
+2024-12-22 12:38:41,951 - src.lcca - INFO - Total Lifecycle Cost (LCCA): $1,464,666.29
+2024-12-22 13:01:04,873 - src.performance - INFO - Total Fatigue Damage: 0.004472024810545181
+2024-12-22 13:01:04,875 - src.performance - INFO - Total Rutting: 1.2148684899458864 mm
+2024-12-22 13:01:04,877 - src.performance - INFO - Thermal Cracking Index: 0.001
+2024-12-22 13:01:04,877 - src.performance - INFO - Pavement design simulation completed.
+2024-12-22 13:01:04,877 - src.lcca - INFO - Starting Life-Cycle Cost Analysis (LCCA).
+2024-12-22 13:01:04,878 - src.lcca - INFO - Initial Cost: $1,000,000.00
+2024-12-22 13:01:04,878 - src.lcca - INFO - Total Lifecycle Cost (LCCA): $1,464,666.29
+2024-12-22 13:01:35,819 - src.reporting - INFO - Report generated successfully.
+2024-12-22 13:01:35,820 - src.reporting - ERROR - ReportLab is not installed. Please install it using 'pip install reportlab'
+2024-12-22 13:02:54,979 - src.performance - INFO - Total Fatigue Damage: 0.004472024810545181
+2024-12-22 13:02:54,982 - src.performance - INFO - Total Rutting: 1.2148684899458864 mm
+2024-12-22 13:02:54,982 - src.performance - INFO - Thermal Cracking Index: 0.001
+2024-12-22 13:02:54,982 - src.performance - INFO - Pavement design simulation completed.
+2024-12-22 13:02:54,983 - src.lcca - INFO - Starting Life-Cycle Cost Analysis (LCCA).
+2024-12-22 13:02:54,983 - src.lcca - INFO - Initial Cost: $1,000,000.00
+2024-12-22 13:02:54,983 - src.lcca - INFO - Total Lifecycle Cost (LCCA): $1,464,666.29
+2024-12-22 13:03:14,347 - src.reporting - INFO - Report generated successfully.
+2024-12-22 13:03:14,371 - src.reporting - INFO - Report exported to PDF at pavement_design_report.pdf
+2024-12-22 13:11:53,158 - src.performance - INFO - Total Fatigue Damage: 0.004472024810545181
+2024-12-22 13:11:53,161 - src.performance - INFO - Total Rutting: 1.2148684899458864 mm
+2024-12-22 13:11:53,161 - src.performance - INFO - Thermal Cracking Index: 0.001
+2024-12-22 13:11:53,161 - src.performance - INFO - Pavement design simulation completed.
+2024-12-22 13:11:53,162 - src.lcca - INFO - Starting Life-Cycle Cost Analysis (LCCA).
+2024-12-22 13:11:53,162 - src.lcca - INFO - Initial Cost: $1,000,000.00
+2024-12-22 13:11:53,162 - src.lcca - INFO - Total Lifecycle Cost (LCCA): $1,464,666.29
+2024-12-22 13:12:17,973 - src.reporting - INFO - Report generated successfully.
+2024-12-22 13:12:17,995 - src.reporting - INFO - Report exported to PDF at pavement_design_report.pdf
+2024-12-22 13:37:33,916 - src.performance - INFO - Total Fatigue Damage: 0.004472024810545181
+2024-12-22 13:37:33,917 - src.performance - INFO - Total Rutting: 1.2148684899458864 mm
+2024-12-22 13:37:33,918 - src.performance - INFO - Thermal Cracking Index: 0.001
+2024-12-22 13:37:33,919 - src.performance - INFO - Pavement design simulation completed.
+2024-12-22 13:37:33,920 - src.lcca - INFO - Starting Life-Cycle Cost Analysis (LCCA).
+2024-12-22 13:37:33,920 - src.lcca - INFO - Initial Cost: $1,000,000.00
+2024-12-22 13:37:33,920 - src.lcca - INFO - Total Lifecycle Cost (LCCA): $1,464,666.29
+2024-12-22 13:47:26,229 - src.performance - INFO - Total Fatigue Damage: 0.004472024810545181
+2024-12-22 13:47:26,230 - src.performance - INFO - Total Rutting: 1.2148684899458864 mm
+2024-12-22 13:47:26,230 - src.performance - INFO - Thermal Cracking Index: 0.001
+2024-12-22 13:47:26,231 - src.performance - INFO - Pavement design simulation completed.
+2024-12-22 13:47:26,231 - src.lcca - INFO - Starting Life-Cycle Cost Analysis (LCCA).
+2024-12-22 13:47:26,232 - src.lcca - INFO - Initial Cost: $1,000,000.00
+2024-12-22 13:47:26,232 - src.lcca - INFO - Total Lifecycle Cost (LCCA): $1,464,666.29
+2024-12-22 14:01:58,282 - src.performance - INFO - Total Fatigue Damage: 0.004472024810545181
+2024-12-22 14:01:58,284 - src.performance - INFO - Total Rutting: 1.2148684899458864 mm
+2024-12-22 14:01:58,284 - src.performance - INFO - Thermal Cracking Index: 0.001
+2024-12-22 14:01:58,284 - src.performance - INFO - Pavement design simulation completed.
+2024-12-22 14:01:58,285 - src.lcca - INFO - Starting Life-Cycle Cost Analysis (LCCA).
+2024-12-22 14:01:58,285 - src.lcca - INFO - Initial Cost: $1,000,000.00
+2024-12-22 14:01:58,285 - src.lcca - INFO - Total Lifecycle Cost (LCCA): $1,464,666.29
+2024-12-22 14:02:55,470 - src.reporting - INFO - Report generated successfully.
+2024-12-22 14:02:55,493 - src.reporting - INFO - Report exported to PDF at pavement_design_report.pdf
+2024-12-22 14:04:45,178 - src.performance - INFO - Total Fatigue Damage: 0.004472024810545181
+2024-12-22 14:04:45,179 - src.performance - INFO - Total Rutting: 1.2148684899458864 mm
+2024-12-22 14:04:45,180 - src.performance - INFO - Thermal Cracking Index: 0.001
+2024-12-22 14:04:45,180 - src.performance - INFO - Pavement design simulation completed.
+2024-12-22 14:04:45,181 - src.lcca - INFO - Starting Life-Cycle Cost Analysis (LCCA).
+2024-12-22 14:04:45,181 - src.lcca - INFO - Initial Cost: $1,000,000.00
+2024-12-22 14:04:45,182 - src.lcca - INFO - Total Lifecycle Cost (LCCA): $1,464,666.29
+2024-12-22 14:15:49,886 - src.performance - INFO - Total Fatigue Damage: 0.004472024810545181
+2024-12-22 14:15:49,887 - src.performance - INFO - Total Rutting: 1.2148684899458864 mm
+2024-12-22 14:15:49,887 - src.performance - INFO - Thermal Cracking Index: 0.001
+2024-12-22 14:15:49,887 - src.performance - INFO - Pavement design simulation completed.
+2024-12-22 14:15:49,889 - src.lcca - INFO - Starting Life-Cycle Cost Analysis (LCCA).
+2024-12-22 14:15:49,890 - src.lcca - INFO - Initial Cost: $1,000,000.00
+2024-12-22 14:15:49,891 - src.lcca - INFO - Total Lifecycle Cost (LCCA): $1,464,666.29
+2024-12-22 14:30:46,841 - src.performance - INFO - Total Fatigue Damage: 0.004472024810545181
+2024-12-22 14:30:46,843 - src.performance - INFO - Total Rutting: 1.2148684899458864 mm
+2024-12-22 14:30:46,843 - src.performance - INFO - Thermal Cracking Index: 0.001
+2024-12-22 14:30:46,843 - src.performance - INFO - Pavement design simulation completed.
+2024-12-22 14:30:46,845 - src.lcca - INFO - Starting Life-Cycle Cost Analysis (LCCA).
+2024-12-22 14:30:46,845 - src.lcca - INFO - Initial Cost: $1,000,000.00
+2024-12-22 14:30:46,845 - src.lcca - INFO - Total Lifecycle Cost (LCCA): $1,464,666.29
+2024-12-22 14:49:36,575 - src.performance - INFO - Total Fatigue Damage: 0.004472024810545181
+2024-12-22 14:49:36,576 - src.performance - INFO - Total Rutting: 1.2148684899458864 mm
+2024-12-22 14:49:36,577 - src.performance - INFO - Thermal Cracking Index: 0.001
+2024-12-22 14:49:36,577 - src.performance - INFO - Pavement design simulation completed.
+2024-12-22 14:49:36,577 - src.lcca - INFO - Starting Life-Cycle Cost Analysis (LCCA).
+2024-12-22 14:49:36,577 - src.lcca - INFO - Initial Cost: $1,000,000.00
+2024-12-22 14:49:36,578 - src.lcca - INFO - Total Lifecycle Cost (LCCA): $1,464,666.29
