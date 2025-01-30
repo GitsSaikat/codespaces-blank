@@ -29,7 +29,7 @@ Welcome to the **Mechanistic-Empirical Pavement Design Tool for Highways and Air
    git clone https://github.com/GitsSaikat/Pavement-App.git
    cd pavement-design-tool
    pip install -r requirements.txt
-   strealit run app.py
+   streamlit run app.py
   ```
 
 ## Project Structure
